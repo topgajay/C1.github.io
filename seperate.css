@@ -1,0 +1,61 @@
+body {
+    align-items: center;
+    background-color: green;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+    filter: grayscale(100%);
+}
+
+
+
+table,
+th,
+td,
+tr {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin: auto;
+}
+
+h4 {
+    align-items: center;
+    align-self: center;
+}
+
+
+
+table {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p.content {
+    margin: 60px;
+    text-align: justify;
+    font-size: 22px;
+}
+
+body {
+    background-image: url('wall.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
