@@ -1,0 +1,36 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 15 px;
+    color: rgb(14, 19, 22);
+    padding: 0;
+  }  
+  H1{
+    text-align: center;
+  }
+body{
+    background-image:url("monkey.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:'Times New Roman', Times, serif, Helvetica, sans-serif;
+    line-height: 1.6;
+   
+}
+.header {
+    
+    color: green; 
+    padding: 10px; 
+  }
+.footer {
+    background-color: blue;
+    color: orange;
+    text-align: center;
+    padding: 10px;
+  }
+  img {
+    max-width: 400px;
+    height: 200px;
+    
+  }
+  .data{
+    margin: 30px;
+  }
